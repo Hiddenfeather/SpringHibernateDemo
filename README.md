@@ -1,2 +1,1 @@
-# SpringHibernateDemo
-Simple Spring boot with  Hibernate integration
+A Simple Spring hibernate project using Spring JPA
